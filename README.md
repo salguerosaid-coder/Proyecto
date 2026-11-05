@@ -64,7 +64,7 @@
             <div class="servicios-grilla">
                 
                 <div class="servicio-tarjeta">
-                    <div class="servicio-icono">🫙</div>
+                    <div class="servicio-icono"></div>
                     <h3>Garrafón de 20 Litros</h3>
                     <p>Agua purificada, lista para consumir. Entregamos en tu domicilio.</p>
                     <p class="servicio-precio">$18.00 c/u</p>
@@ -136,7 +136,7 @@
         <h2 class="titulo-seccion">Galería</h2>
         <div class="servicios-grilla">
             <div class="servicio-tarjeta">
-                <img src="imagenes/purificadora.jpeg" alt="Purificadora de agua" style="width:100%; border-radius:12px;">
+                <img src="imagenes/WhatsApp Image 2026-11-05 at 5.02.24 PM.jpg" alt="no cargo" width=150px height=150px>
                 <p style="margin-top:12px;">Nuestra planta de purificación</p>
             </div>
             <div class="servicio-tarjeta">
