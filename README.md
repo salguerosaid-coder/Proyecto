@@ -1,2 +1,248 @@
-# Proyecto
-este repositorio solo tiene fines educativos
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+    <nav>
+        <div class="contenedor nav-contenido">
+            <a herf="#" class="logo">AQUA PURA</a>
+            <ul class="enlaces">
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#nosotros">Nosotros</a></li>
+                <li><a href="#caracteristicas>">Cracteristicas</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#porque">¿Por qué nosotros?</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header id="inicio">
+        <div class="contenedor portada-contenido">
+            <h1>Agua limpia para ti y tu familia</h1>
+            <p>La mejor purificación y distribución de agua. Salud, frescura y confianza en cada gota.</p>
+            <div class="botones-portada">
+                <a href="#servicios" class="btn btn-verde">Ver precios </a>
+                <a href="#contacto" class="btn btn-azul">Pedir ahora </a>
+            </div>
+        </div>
+    </header>
+    
+    <section id="nosotros" class="seccion">
+        <div class="contenedor">
+            <h2 class="titulo-seccion">Quiénes Somos</h2>
+            <div class="nosotros-contenido">
+                <div class="nosotros-imagen">
+        </div>
+        <div class="nosotros-texto">
+                <h3>Tu fuente de agua saludable</h3>
+                <p>En <strong>AquaPura</strong> nos dedicamos a purificar y distribuir agua de la más alta calidad.<br>
+                Utilizamos tecnología de filtración avanzada que elimina impurezas y conserva los minerales esenciales.
+                </p>
+        </div>
+        <div class="caracteristicas">
+            <h3>CARACTERISTICAS</h3>
+                <div class="caracteristica">Purificación en 6 etapas</div>
+                <div class="caracteristica">Entrega a domicilio</div>
+                <div class="caracteristica">Garantía de frescura</div>
+                <div class="caracteristica">Precios accesibles</div>
+        </div>
+        <h3 style="margin-top: 25px;">Misión</h3>
+            <p>Brindar agua purificada segura y accesible, mejorando la salud y bienestar de nuestra comunidad.</p>
+                    
+        <h3>Visión</h3>
+            <p>Ser la purificadora de confianza líder, expandiendo nuestro servicio con calidad y responsabilidad.</p>
+ 
+    <section id="servicios" class="seccion servicios">
+        <div class="contenedor">
+            <h2 class="titulo-seccion">Nuestros Servicios y Productos</h2>
+            <div class="servicios-grilla">
+                
+                <div class="servicio-tarjeta">
+                    <div class="servicio-icono">🫙</div>
+                    <h3>Garrafón de 20 Litros</h3>
+                    <p>Agua purificada, lista para consumir. Entregamos en tu domicilio.</p>
+                    <p class="servicio-precio">$18.00 c/u</p>
+                    <a href="#contacto" class="btn btn-azul" style="padding: 10px 20px; font-size: 0.9rem;">Pedir →</a>
+                </div>
+
+                <div class="servicio-tarjeta">
+                    <div class="servicio-icono"></div>
+                    <h3>Recarga de Garrafón</h3>
+                    <p>Trae tu envase y lo llenamos con agua recién purificada. Más económico.</p>
+                    <p class="servicio-precio">$10.00</p>
+                    <a href="#contacto" class="btn btn-azul" style="padding: 10px 20px; font-size: 0.9rem;">Pedir →</a>
+                </div>
+
+                <div class="servicio-tarjeta">
+                    <div class="servicio-icono"></div>
+                    <h3>Contrato Familiar</h3>
+                    <p>Entrega programada cada semana. Descuentos especiales y atención prioritaria.</p>
+                    <p class="servicio-precio">Desde $120/mes</p>
+                    <a href="#contacto" class="btn btn-azul" style="padding: 10px 20px; font-size: 0.9rem;">Solicitar →</a>
+                </div>
+
+                <div class="servicio-tarjeta">
+                    <div class="servicio-icono"></div>
+                    <h3>Empresas y Oficinas</h3>
+                    <p>Suministro constante para equipos y personal. Facturamos.</p>
+                    <p class="servicio-precio">A cotizar</p>
+                    <a href="#contacto" class="btn btn-azul" style="padding: 10px 20px; font-size: 0.9rem;">Cotizar →</a>
+                </div>
+
+                <div class="servicio-tarjeta">
+                    <div class="servicio-icono"></div>
+                    <h3>Análisis de Calidad</h3>
+                    <p>Certificaciones y reportes de pureza. Cumplimos con normas sanitarias.</p>
+                    <p class="servicio-precio">Consulta</p>
+                    <a href="#contacto" class="btn btn-azul" style="padding: 10px 20px; font-size: 0.9rem;">Saber más →</a>
+                </div>
+
+                <div class="servicio-tarjeta">
+                    <div class="servicio-icono"></div>
+                    <h3>Mantenimiento de Equipos</h3>
+                    <p>Revisión y cambio de filtros para tu purificadora doméstica o comercial.</p>
+                    <p class="servicio-precio">Desde $250</p>
+                    <a href="#contacto" class="btn btn-azul" style="padding: 10px 20px; font-size: 0.9rem;">Agendar →</a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+<section id="clientes" class="seccion">
+    <div class="contenedor">
+        <h2 class="titulo-seccion">Clientes y Aliados</h2>
+        <div class="porque-grilla">
+            <div class="razon">
+                <div class="razon-icono"></div>
+                <h4>Clientes frecuentes</h4>
+                <p>Escuelas, tiendas, oficinas y familias de la comunidad.</p>
+            </div>
+            <div class="razon">
+                <div class="razon-icono"></div>
+                <h4>Aliados comerciales</h4>
+                <p>Proveedores de filtros y talleres de mantenimiento local.</p>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="galeria" class="seccion">
+    <div class="contenedor">
+        <h2 class="titulo-seccion">Galería</h2>
+        <div class="servicios-grilla">
+            <div class="servicio-tarjeta">
+                <img src="imagenes/purificadora.jpeg" alt="Purificadora de agua" style="width:100%; border-radius:12px;">
+                <p style="margin-top:12px;">Nuestra planta de purificación</p>
+            </div>
+            <div class="servicio-tarjeta">
+                <img src="https://images.unsplash.com/photo-1564890369479-cb47dbb5f7d0?w=400" alt="Garrafones de agua" style="width:100%; border-radius:12px;">
+                <p style="margin-top:12px;">Garrafones listos para entrega</p>
+            </div>
+            <div class="servicio-tarjeta">
+                <img src="https://images.unsplash.com/photo-1570733571171-8357c7a6d4e1?w=400" alt="Entrega a domicilio" style="width:100%; border-radius:12px;">
+                <p style="margin-top:12px;">Entrega a domicilio</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="testimonios" class="seccion">
+    <div class="contenedor">
+        <h2 class="titulo-seccion">Lo que dicen nuestros clientes</h2>
+        <div class="porque-grilla">
+            <div class="razon">
+                <div class="razon-icono"></div>
+                <h4>María G.</h4>
+                <p>"El agua es muy buena y siempre llegan temprano con mi pedido."</p>
+            </div>
+            <div class="razon">
+                <div class="razon-icono"></div>
+                <h4>Escuela Primaria 12</h4>
+                <p>"Confiamos en AquaPura para el agua de todos los alumnos."</p>
+            </div>
+            <div class="razon">
+                <div class="razon-icono"></div>
+                <h4>Carlos R.</h4>
+                <p>"Los precios son accesibles y el servicio es muy amable."</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<form action="#" method="post">
+    <input type="text" name="nombre" placeholder="Tu nombre completo" required>
+    <input type="email" name="correo" placeholder="Correo electrónico">
+    <input type="tel" name="telefono" placeholder="Teléfono">
+    <input type="text" name="direccion" placeholder="Dirección de entrega">
+    <select name="servicio">
+        <option value="">Selecciona tu servicio</option>
+        <option value="garrafon">Garrafón de 20 L — $20.00</option>
+        <option value="recarga">Recarga de garrafón — $20.00</option>
+        <option value="nuevo">Envase nuevo + llenado — $50.00</option>
+        <option value="empresa">Servicio para empresas</option>
+    </select>
+    <textarea name="mensaje" placeholder="Escribe tu pedido o comentario"></textarea>
+    <button type="submit" class="btn btn‑verde">Enviar pedido </button>
+</form>
+<div class="redes">
+    <p>Síguenos y haz tus pedidos por redes:</p>
+    <a href="https://www.facebook.com/aquapuraneza" target="_blank">📘 Facebook: AquaPura Neza</a>
+    <a href="https://www.instagram.com/aquapura_neza" target="_blank">📸 Instagram: @aquapura_neza</a>
+    <a href="https://wa.me/5598765432" target="_blank">💬 WhatsApp: 55‑9876‑5432</a>
+</div>
+<p style="margin‑top:20px; font‑size:0.85rem;">
+  <strong>Aviso de privacidad:</strong> Los datos que ingreses en el formulario solo se usan para atender tu pedido, no se comparten con terceros.
+</p>
+
+<iframe src="https://maps.app.goo.gl/v1NzdmcxX8Uey6cJ6"
+width="100%" height="250" style="border:0; border‑radius:12px;" allowfullscreen="" loading="lazy" referrerpolicy="no‑referrer‑when‑downgrade"></iframe>
+
+<a href="#contacto" class="btn btn‑azul">Pedir ahora</a>
+<a href="https://www.facebook.com/aquapuraneza" target="_blank">Facebook AquaPura</a>
+<a href="https://wa.me/5598765432" target="_blank">WhatsApp para pedidos</a>
+
+<li><a href="#servicios">Servicios</a></li>
+<li><a href="#clientes">Clientes y Aliados</a></li>
+
+<section id="servicios" class="seccion servicios">
+<section id="clientes" class="seccion">
+<li><a href="#testimonios">Testimonios</a></li>
+<div class="contenedor" style="margin‑top:30px;">
+  <h3>Lista de precios oficiales</h3>
+  <table border="1" cellpadding="10" cellspacing="0" style="width:100%; border‑collapse:collapse; margin‑top:15px;">
+    <tr style="background‑color:#E0F7FA;">
+      <th>Producto</th>
+      <th>Precio</th>
+    </tr>
+    <tr>
+      <td>Garrafón de 20 L</td>
+      <td>$20.00</td>
+    </tr>
+    <tr>
+      <td>Recarga de garrafón</td>
+      <td>$20.00</td>
+    </tr>
+    <tr>
+      <td>Envase nuevo + llenado</td>
+      <td>$50.00</td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://images.unsplash.com/photo‑1548890429‑4001d5a30e69?w=600" alt="Purificadora de agua" 
+style="width:100%; max‑width:500px; border‑radius:12px; margin‑top:20px;">
+
+@media (max‑width:768px) {
+  .enlaces { display:none; }
+  .menu‑movil { display:block; }
+  .nosotros‑contenido, .contacto‑grilla { grid‑template‑columns:1fr; }
+  .portada‑contenido h1 { font‑size:2rem; }
+  table { font‑size:0.9rem; }
+}
+</body>
+</html>
